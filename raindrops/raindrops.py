@@ -8,4 +8,4 @@ def convert(number):
         resp += "Plong"
     if resp == "":
         resp += str(number)
-    print(resp)
+    return (resp)
